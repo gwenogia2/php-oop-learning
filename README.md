@@ -4,13 +4,14 @@ Repository ini berisi modul praktikum Web Programming (PHP OOP Native). Materi d
 
 ## Daftar Materi Praktikum
 
-| Modul  | Topik Materi                            | Folder Direktori |
-|   01   | Class & Object                          | [`01-class-object/`](./01-class-object) |
-|   02   | Properties & Methods                    | [`02-properties-methods/`](./02-properties-methods) |
-|   03   | Constructor & Destructor                | [`03-constructor-destructor/`](./03-constructor-destructor) |
-|   04   | Inheritance (Pewarisan)                 | [`04-inheritance/`](./04-inheritance) |
-|   05   | Visibility (Public, Protected, Private) | [`05-visibility/`](./05-visibility) |
-|   06   | Encapsulation (Getter & Setter)         | [`06-getter-setter/`](./06-getter-setter) |
+| Modul | Topik Materi | Folder Direktori | File Utama |
+| :---: | :--- | :--- | :--- |
+| **01** | Class & Object | [`01-class-object/`](./01-class-object) | `Produk.php`, `index.php` |
+| **02** | Properties & Methods | [`02-properties-methods/`](./02-properties-methods) | `Produk.php`, `index.php` |
+| **03** | Constructor & Destructor | [`03-constructor-destructor/`](./03-constructor-destructor) | `Produk.php`, `index.php` |
+| **04** | Inheritance (Pewarisan) | [`04-inheritance/`](./04-inheritance) | `Produk.php`, `ProdukBuku.php`, `ProdukDigital.php`, `index.php` |
+| **05** | Visibility (Public, Protected, Private) | [`05-visibility/`](./05-visibility) | `Produk.php`, `ProdukBuku.php`, `index.php` |
+| **06** | Encapsulation (Getter & Setter) | [`06-getter-setter/`](./06-getter-setter) | `Produk.php`, `index.php` |
 
 ## Persiapan & Cara Menjalankan
 
