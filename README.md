@@ -1,4 +1,4 @@
-## Boilerplate & Modul Praktikum: PHP OOP Native
+## Modul Praktikum: PHP OOP Native
 
 Repository ini berisi modul praktikum Web Programming (PHP OOP Native). Materi disusun bertahap memakai studi kasus Sistem Toko Online (Produk), mulai dari dasar class dan object sampai penerapan visibility dan getter-setter.
 
